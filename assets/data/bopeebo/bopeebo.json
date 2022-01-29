@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
-		"player2": "dorklysonic",
+		"player2": "dad",
 		"events": [],
 		"notes": [
 			{
@@ -2775,8 +2775,8 @@
 		"gfVersion": "gf",
 		"player3": null,
 		"splashSkin": "noteSplashes",
-		"song": "For-Hire",
-		"stage": "GreenHill",
+		"song": "Bopeebo",
+		"stage": "stage",
 		"validScore": true,
 		"arrowSkin": "",
 		"needsVoices": true,
